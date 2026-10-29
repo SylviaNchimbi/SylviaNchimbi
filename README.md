@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**SylviaNchimbi/SylviaNchimbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Sylvia Nchimbi 👋
 
-Here are some ideas to get you started:
+🇹🇿 Tanzanian | 📍 Based in Port Louis, Mauritius | 🌍 Open to Internships
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 AI Student @ Middlesex University Mauritius
+💻 Python | Pandas | NumPy | SQL | Machine Learning | Git | LeetCode
+🎯 Aspiring AI Engineer
+
+### 🚀 About Me
+Passionate about using AI to solve real-world problems. Currently building my foundation in Machine Learning and Data Science. Multilingual:  English (Fluent),Swahili, French.
+
+### 🛠️ Tech Stack
+`Python` `SQL` `Machine Learning` `Data Analysis` `Git`
+
+### 📫 Let's Connect
+-LinkedIn: linkedin.com/in/sylvia-nchimbi
+- LeetCode: leetcode.com/u/Sylvia_Nchimbi
+- Email: sylvianchimbi01@gmail.com
+- Location: Mauritius (GMT+4) | 🌍 Open to Opportunities Worldwide
