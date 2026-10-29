@@ -14,7 +14,7 @@ Passionate about using AI to solve real-world problems. Currently building my fo
 `Python` `SQL` `Machine Learning` `Data Analysis` `Git`
 
 ### 📫 Let's Connect
--LinkedIn: linkedin.com/in/sylvia-nchimbi
-- LeetCode: leetcode.com/u/Sylvia_Nchimbi
+-LinkedIn: https://linkedin.com/in/sylvia-nchimbi
+- LeetCode: https:/leetcode.com/u/Sylvia_Nchimbi
 - Email: sylvianchimbi01@gmail.com
 - Location: Mauritius (GMT+4) | 🌍 Open to Opportunities Worldwide
